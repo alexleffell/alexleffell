@@ -22,6 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! This page is under construction, but in the meantime here are some tidbits.
 
-I'm currently a second year PhD student in Stanford's Bioengineering department. I'm coadvised by Manu Prakash and Aaron Straight. I'm interested in studying the physics of life, using the dinoflagellates as my muse.
+I'm currently a second year PhD student in Stanford's Bioengineering department, coadvised by Manu Prakash and Aaron Straight. I'm interested in studying the physics of life, using the dinoflagellates as my muse.
 
 Outside of work I'm perpetually creating. Currently I'm playing with soft interfaces for making music and finishing up an electronic drum machine.
