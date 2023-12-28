@@ -32,5 +32,5 @@ giscus_comments: false
     </div>
 </div>
 <div class="caption">
-    Earrings. Modeled in meshmixer to match an implement from the movie *Dead Ringers*. SLA printed, then coated in conductive paint and electroplated with copper and then nickel.
+    Earrings. Modeled in meshmixer to match an implement from the movie Dead Ringers. SLA printed, then coated in conductive paint and electroplated with copper and then nickel. 
 </div>

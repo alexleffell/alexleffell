@@ -3,7 +3,7 @@ layout: page
 title: Synod
 description: Electronic Drum Machine
 img: assets/img/synod/synod2.jpeg
-importance: 3
+importance: 1
 category: Creative
 ---
 

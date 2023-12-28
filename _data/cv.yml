@@ -1,9 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Alex Leffell
-
 - title: Education
   type: time_table
   contents:
@@ -11,7 +5,7 @@
       institution: Stanford University
       year: 2023-2028
       description:
-        - Physics of Living Systems
+        - Bioengineering
         - Coadvised by Manu Prakash (BioE) and Aaron Straight (Biochem)
     - title: B.S.
       institution: MIT
@@ -24,61 +18,30 @@
   contents:
     - title: Technical Lead
       institution: Detect, Inc
-      year: 1933 - 1955
+      year: 2020- 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Lead a team of 5 engineers through initial stages of product development for a lab-grade, at-home diagnostic device
+        - Served as liaison between hardware and molecular biology teams, ultimately responsible for technical development as a whole
+        - Designed, prototyped and optimized optics and electronics for a ultra-low cost fluorometer dedicated to quantifying DNA amplification 
     - title: Head of Hardware
-      institution: Liminal Sciences
-      year: 1933
+      institution: Liminal Sciences ($HYPR)
+      year: 2018-2020
       description:
-        - Description 1.
-        - Description 2.
+        - title: Architected and lead electrical and mechanical design for several wireless medical-grade EEG system prototypes
+          contents:
+          - Designed EEG biasing scheme to maximize performance will minimizing number of electrodes
+          - Designed systems to meet IEC60601 standards
+          - Filed for 5 patents
+        - Designed and prototyped novel EEG electrode form factors for increased usability
+        - Developed firmware for early prototypes
+        - Managed and prepared QMS documents for clinical trial
+
 
     - title: Intern
-      institution: Draper Labs
-      year: 1917-1933
+      institution: Draper Laboratory
+      year: 2017
 
     - title: Intern
       institution: George Church Lab
-      year: 1911 - 1917
+      year: 2016
       description:
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
