@@ -2,7 +2,7 @@
 layout: page
 title: Barefoot Shoes
 description: A winter holiday project
-img: /assets/img/shoes/IMG_5806.jpeg
+img: /assets/img/shoes/IMG_5826.jpeg
 importance: 4
 category: Creative
 ---
@@ -22,7 +22,7 @@ missing pictures of the hardest part, which was designing the pattern.
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="/assets/img/shoes/IMG_5803.jpeg" title="shaping the last" class="img-fluid" %}
+        {% include figure.html path="/assets/img/shoes/IMG_5803.jpeg" title="shaping the last" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,9 +31,25 @@ missing pictures of the hardest part, which was designing the pattern.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/shoes/IMG_5806.jpeg" title="Fitting the upper" class="img-fluid" %}
+        {% include figure.html path="/assets/img/shoes/IMG_5806.jpeg" title="Fitting the upper" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Fitting the upper to the sole. I wanted a thin flexible sole, so I made a stackup of pig skin, 3mm cork and 1 mm of Vibram rubber
 </div>
+
+After hand stitching, gluing on the 1mm Vibram with E6000 and repeating the whole thing...
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/shoes/IMG_5825.jpeg" title="Finished!" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/shoes/IMG_5826.jpeg" title="In their natural habitat" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+I used scrap chrome tan leather which is very flexible. The result is a somewhat floppy look, a cross between a mocassin and a chukka boot. Using the typical veg tan leather would give it a more sturdy look but take away from the barefoot experience.
