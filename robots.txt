@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alexleffell.github.io/alexleffell//sitemap.xml
+Sitemap: https://alexleffell.github.io/sitemap.xml
